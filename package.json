@@ -1,0 +1,24 @@
+{
+  "name": "bip44-keypath",
+  "version": "0.0.1",
+  "description": "bip44 hdkey keypath parsing and building",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvayngrib/bip44-keypath"
+  },
+  "keywords": [
+    "bitcoin",
+    "bip44",
+    "hdkey"
+  ],
+  "author": "Mark Vayngrib <mark.vayngrib@lablz.com> (http://github.com/mvayngrib)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvayngrib/bip44-keypath/issues"
+  },
+  "homepage": "https://github.com/mvayngrib/bip44-keypath"
+}
